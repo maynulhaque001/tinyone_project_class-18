@@ -1,0 +1,28 @@
+psd to html
+psd to bootstrap
+
+PT Sans
+    Regular
+    Bold
+
+color------------
+black- #010101
+ash-  #898989
+yellow- #fcdb00
+gray - #313841
+black - #555555
+ash  - #313841
+
+xxl  =  1440    -1600   -1800   -2100
+xl   =   1200
+lg   =   1024
+md   =   768
+sm   =   576
+xsm  =   320 
+
+padding----------------------
+        xxl/xl/lg 100px-120px    md 70px-90px    sm/col 50px-60px
+            
+
+
+header          20px        
